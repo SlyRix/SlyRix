@@ -4,25 +4,50 @@
 
 ## 🚀 About Me
 - 💻 Software Developer at **e-switch Solutions AG** 🇨🇭
-- 🎓 IT Professional with completed IPA (Individual Practical Work)
+- 🎓 IT Professional studied in OST
 - 🌱 Always learning and exploring new technologies
 - 🎯 Focused on creating clean, efficient solutions
 - 📷 Building creative projects like FotoBox and wedding applications
 - 📫 Open to collaborations and interesting projects
 
 ## 🛠️ Technologies & Tools
+
+### 👨‍💻 Programming and Markup Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🧰 Frameworks and Libraries
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![JavaFX](https://img.shields.io/badge/-JavaFX-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+
+### 🗄️ Databases and Cloud Hosting
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+### 💻 Software and Tools
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Claude AI](https://img.shields.io/badge/-Claude%20AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
 
 ## 🎯 Featured Projects
-- **🎓 [IPA2018](https://github.com/SlyRix/IPA2018)** - Individual Practical Work project (C#)
 - **💒 [myWed](https://github.com/SlyRix/myWed)** - Wedding application (JavaScript)
 - **📸 [FotoBox](https://github.com/SlyRix/FotoBox)** - Photo booth application (JavaScript)
 
@@ -34,7 +59,7 @@
 
 ## 🔥 Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SlyRix&theme=radical" alt="SlyRix's streak"/>
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=SlyRix&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -53,8 +78,9 @@
 
 ## 🤝 Connect With Me
 <!-- Uncomment and update with your actual social media profiles -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushel-silvester)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@slyrix.com)
 <!--
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
@@ -69,7 +95,7 @@
 ---
 <div align="center">
   
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+**"Code is like humor. When you have to explain it, it's bad."**
 
 ⭐️ From [SlyRix](https://github.com/SlyRix)
 
