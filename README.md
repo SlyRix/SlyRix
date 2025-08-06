@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=header&text=Welcome%20to%20SlyRix's%20Code%20Universe&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" alt="header"/>
+</div>
+
 # Hi there, I'm SlyRix! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SlyRix&color=blueviolet)
@@ -93,10 +97,19 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=2000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
 <div align="center">
   
 **"Code is like humor. When you have to explain it, it's bad."**
 
 ⭐️ From [SlyRix](https://github.com/SlyRix)
 
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer&animation=twinkling" alt="footer"/>
 </div>
